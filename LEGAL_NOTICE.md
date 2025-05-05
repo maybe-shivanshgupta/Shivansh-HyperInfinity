@@ -72,6 +72,6 @@ This document, combined with cryptographic hashes, platform timestamps, and inte
 📌 No access or rights shall be granted without lawful, written, judicial authority.
 
 Signed,
-Shivansh Gupta — Creator & Developer
+Shivansh Gupta — Creator & Developer,
 Sunita Vishwakarma — Legal Owner & Creative Guardian
-- Date: [06-05-2025 12:10AM]
+- Date: [06-05-2025 12:11AM]
