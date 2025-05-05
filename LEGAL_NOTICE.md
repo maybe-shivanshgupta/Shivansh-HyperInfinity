@@ -1,7 +1,8 @@
 # 🛡️ Legal Notice & Copyright Declaration
 
-**Project:** HyperInfinity  
-**Authors:** Shivansh Gupta & Sunita Vishwakarma  
+**Project Name:** HyperInfinity  
+**Creator & Developer:** Shivansh Gupta  
+**Legal Owner:** Sunita Vishwakarma  
 **Year:** 2025  
 **Country of Residence:** India 🇮🇳
 
@@ -9,83 +10,68 @@
 
 ## 📌 Declaration of Ownership
 
-This is to formally declare that the software project titled **HyperInfinity** is an original creation of **Shivansh Gupta** and his mother **Sunita Vishwakarma**. The project is currently in **private development**, and **only the content explicitly published on this GitHub repository is intended for public access or use**.
+This is to formally declare that the software project titled **HyperInfinity** is the original intellectual creation of **Shivansh Gupta**, and is legally owned by **Sunita Vishwakarma**, with full consent from both parties.
 
-All other components of the project—including unreleased code, internal features, experimental builds, and system scripts—are private intellectual property and are securely maintained by the authors.
+Sunita Vishwakarma provides:
+- Creative direction and inspiration  
+- Artistic input and design feedback  
+- Oversight, guardianship, and final authority
+
+Shivansh Gupta is:
+- The **sole developer**, coder, system architect, and maintainer  
+- The individual responsible for all programming and technical decisions
+
+All content — including code, configurations, concepts, scripts, assets, and internal builds — is protected under intellectual property law and remains private unless explicitly published.
 
 ---
 
-## ⚖️ Legal Rights and Status
+## 🔐 Legal Rights and Status
 
-### Under the **Copyright Act, 1957 (India)** and the **Berne Convention**:
-- Copyright protection is **automatically granted** upon creation.
-- Code, documentation, scripts, designs, and software tools are recognized as **literary works** under Section 2(o).
-- No formal registration is required for copyright to apply.
-
-### Under the **Information Technology Act, 2000 (India)**:
-- Unauthorized access to or seizure of digital data or devices is punishable under **Section 43 and Section 66**.
-- Any attempt to coerce access to private software, accounts, or storage without lawful cause may constitute **cyber harassment** or **digital rights violation**.
-
-### Under **Article 21 of the Indian Constitution**:
-- The **Right to Privacy** is a **fundamental right** (as per the 2017 Supreme Court judgment in *Justice K.S. Puttaswamy vs Union of India*).
+### Under Indian Law and International Treaties:
+- **Copyright Act, 1957 (India)**
+  - Code and digital content are considered **literary works** and are protected automatically upon creation (Section 2(o), Section 63)
+- **Berne Convention**
+  - Registration is not required to claim legal copyright
+- **Information Technology Act, 2000**
+  - Unauthorized access, copying, or coercive seizure of digital data or devices is punishable under Sections 43 and 66
+- **Article 21 of the Indian Constitution**
+  - As ruled in *Justice K.S. Puttaswamy v. Union of India (2017)*, **digital privacy is a fundamental right**
 
 ---
 
 ## 📢 Project Status
 
 - 🔐 **Private / In Development**
-- 🎞️ Public updates may include **trailers**, **screenshots**, or **feature showcases**
-- 🚫 No complete builds, ISO files, or source code are scheduled for release in the next few months
-- 📦 Development is active and ongoing, but content will be made public **only at the discretion of the authors**
-
----
-
-## 🧠 On Unreleased Features or Public Mentions
-
-When the authors discuss or show planned features (e.g., on YouTube or social media), these are part of **private and future development**, and are **not considered public releases**.
-
-No individual—including relatives—has the right to request or inspect the code or its implementation, unless **lawfully required under exceptional circumstances by a recognized judicial authority.**
+- 🛠️ All source code and internal tools are stored securely and are not available publicly
+- 🎞️ Only trailers, concept showcases, and limited visual previews will be released until further notice
+- 📦 No ISO files, final builds, or repositories are planned for public release in the next few months
 
 ---
 
 ## 🔐 Privacy & Device Protection
 
-- Devices, accounts, and project materials belong **exclusively to the authors**.
-- No external party may access, copy, inspect, or demand any content related to HyperInfinity OS without **explicit written consent**.
-- Any unauthorized attempt to access or force disclosure may be considered a violation of:
-  - **Digital privacy rights**
-  - **Copyright law**
-  - **Indian cybercrime legislation**
+- Devices, accounts, and materials related to **HyperInfinity** are private property  
+- No external person — including relatives, guardians, or parents — has any legal right to access or claim them  
+- Access to any such material can only be considered under **exceptional legal circumstances**, and **only by formal judicial approval**
 
-Access to private materials will only be considered under **exceptional legal circumstances**, with strong judicial justification and procedural approval.
-
----
-
-## 🧾 Cryptographic Proof of Ownership
-
-The authors may, at their discretion, publish a **SHA-256 hash** of their internal project archive to serve as a tamper-proof digital fingerprint of their work.
-
-A SHA-256 hash:
-- Is a **one-way cryptographic summary** of a file
-- Can verify the existence of a specific version of the project at a given time
-- Does **not** reveal or expose the actual content of the code
-
-This allows public proof of authorship **without compromising privacy** or intellectual property.
+Any unauthorized attempt to access, copy, seize, or coerce disclosure of this work shall be treated as:
+- Violation of the Copyright Act
+- Breach of personal privacy under the Constitution
+- A punishable offense under Indian cyber law
 
 ---
 
-## 🔏 Final Note
+🧠 Final Note on Ownership & Legal Standing
+This project, including all experimental and unreleased code, is solely authored by Shivansh Gupta and legally owned by Sunita Vishwakarma, with mutual consent and clarity of roles.
 
-This file serves as a **legally valid, timestamped declaration** of:
-- Authorship and originality
-- Legal protections and boundaries
-- Non-disclosure status of in-progress work
+Any claim of entitlement to view, seize, or inspect this work based on personal or familial relationship — including parental status — shall be considered legally invalid and irrelevant under Indian intellectual property law.
 
-It may be presented to court, legal counsel, or digital platforms in the event of disputes, misuse, or harassment.
+This document, combined with cryptographic hashes, platform timestamps, and internal logs, provides sufficient legal and evidential standing for any judicial, educational, or platform-related dispute.
 
----
+🧩 This file has been deliberately created with proactive legal awareness.
+📌 No access or rights shall be granted without lawful, written, judicial authority.
 
-**Signed,**  
-**Shivansh Gupta**  
-**Sunita Vishwakarma**  
-Date: [05-05-2025]
+Signed,
+Shivansh Gupta — Creator & Developer
+Sunita Vishwakarma — Legal Owner & Creative Guardian
+Date: [06-05-2025 12:04AM]
