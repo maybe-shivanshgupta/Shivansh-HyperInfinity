@@ -74,4 +74,4 @@ This document, combined with cryptographic hashes, platform timestamps, and inte
 Signed,
 Shivansh Gupta — Creator & Developer
 Sunita Vishwakarma — Legal Owner & Creative Guardian
-Date: [06-05-2025 12:04AM]
+- Date: [06-05-2025 12:10AM]
