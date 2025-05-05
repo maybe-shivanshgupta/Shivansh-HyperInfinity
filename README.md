@@ -1,4 +1,4 @@
-# Shivansh-HyperInfinity
+# HyperInfinity
 HyperInfinity, When Speed meets Infinity...
 
 # 🌀 A Supercharged Linux Distro
