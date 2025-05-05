@@ -99,5 +99,5 @@ Thanks for your interest! 😊
 
 ---
 
-Copyright © 2025 Shivansh Gupta
+Copyright (c) 2025 Sunita Vishwakarma & Shivansh Gupta
 Licensed under the MIT License
