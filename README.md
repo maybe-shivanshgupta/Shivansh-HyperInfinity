@@ -33,13 +33,13 @@ In testing, HyperInfinity revived devices that were completely unusable on Windo
 HyperInfinity comes in two flavors:
 
 ### 🌀 HyperInfinity (Regular)
-- Based on **Garuda Linux**
+- Based on **Arch Linux (Gnome/KDE)**
 - Packed with powerful tools and UI enhancements
 - Best for newer systems or power users
 - Loaded with AI tools and offline models
 
 ### 🌿 HyperInfinity Lite
-- Based on **Manjaro Linux**
+- Based on **Arch Linux (MATE/XFCE/KDE)**
 - Lightweight, snappy, and perfect for older hardware
 - Designed to consume minimal system resources
 - All AI tools are cloud based
@@ -104,4 +104,4 @@ Licensed under the MIT License
 
 ---
 
-*Official ID - SVSG-HYP-R02-PRV
+*Official ID - SVSG-HYP-R03-PRV
