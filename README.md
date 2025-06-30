@@ -77,7 +77,7 @@ HyperInfinity is still being finalized. Key tasks remaining:
 
 ## 🧑‍💻 Built With:
 
-- 🐧 **Arch Linux** base (via Garuda and Manjaro)
+- 🐧 **Arch Linux** base
 - 💻 KDE + XFCE (varies by variant)
 - 📦 Custom scripts for optimization
 
